@@ -6,7 +6,7 @@ I did this as a part of Data Science Challenge in Cousera.
 #Introduction
 
 The aim of the project is to predict whether the individuals will make a loan default or not given their details.
-Our interest in understanding the likelihood of each individual to default on their loan payments so that resources
+Our interest is in understanding the likelihood of each individual to default on their loan payments so that resources
 can be allocated appropriately to support these borrowers. 
 
 train.csv contains 70% of the overall sample (255,347 borrowers to be exact) and importantly, will reveal whether or not the borrower 
